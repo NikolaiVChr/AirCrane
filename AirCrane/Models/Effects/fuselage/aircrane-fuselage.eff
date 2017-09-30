@@ -5,8 +5,8 @@
           <metallic type="float"><use>light/metal</use></metallic>
           <ambient-factor type="float"><use>light/occlude</use></ambient-factor>
 
-          <!--<metallic type="float">0.75</metallic>
-          <ambient-factor type="float">0.60</ambient-factor>-->
+          <!--<metallic type="float">0.80</metallic>
+          <ambient-factor type="float">0.80</ambient-factor>-->
 
           <rain-enabled type="int">2</rain-enabled>
           <ambient-correction type="float">0.00</ambient-correction>
